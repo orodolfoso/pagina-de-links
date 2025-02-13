@@ -8,22 +8,19 @@
 
 }
 
-html, body {
-    height: 100%;
+body {
+    background-color: #23289a;
 }
 
-body {
-    background-color: #2223FF;
-    margin: 0;
-    padding: 0;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+.container {
+    background-color:#1a1e89;
 }
+
 
 .img-logo img {
-    width: 250px;
-    
+    width: 500px;
+    height:500px;
+    border: 7px solid #25eb94;
+    border-radius: 50%;
+    object-fit: cover;
 }
