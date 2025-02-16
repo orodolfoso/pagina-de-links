@@ -225,6 +225,18 @@ body {
         font-size: 12px;
     }
 
+
+    .main-thanks {
+        display: flex;
+        align-items: center;
+        width: 350px;
+        margin-top: 35%;
+    }
+
+    .thanks {
+        font-size: 10px;
+    }
+
     
 
    
