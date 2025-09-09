@@ -23,7 +23,7 @@ body {
 }
 
 .container {
-    background-color: #1a1e89;
+    background-color: #010440;
     width: 800px;
     padding: 30px;
     display: flex;
@@ -63,12 +63,12 @@ body {
 }
 
 .socials {
-    box-shadow: 1px 1px 3px #0cff03;
+    box-shadow: 1px 1px 7px 1px #0cff03;
 }
 
 .socials,
 i {
-    background-color: rgb(19, 122, 239);
+    background-color: #010440;
     padding: 11px;
     border-radius: 30px;
     display: flex;
