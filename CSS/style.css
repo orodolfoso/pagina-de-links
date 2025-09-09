@@ -133,7 +133,7 @@ i {
 }
 
 .main-thanks {
-    background-color: #1a1e89;
+    background-color: #010440;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -177,12 +177,12 @@ i {
 
     .socials {
         display: flex;
-        width: 330px;
+        /* width: 330px; */
     }
 
     .socials,
     i {
-        font-size: 17px;
+        font-size: 30px;
         gap: 16px;
     }
 
